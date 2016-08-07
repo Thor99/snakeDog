@@ -22,11 +22,11 @@ O projeto possui quatro comandos por teclado:
 
 ## Como compilar:
 
-```g++ -o main main.cpp cube.cpp camera.cpp Bitmap.cpp snake.cpp texture.cpp vec3d.cpp -std=c++11 -lglut -lGL -lGLU -lm```
+> g++ -o main main.cpp cube.cpp camera.cpp Bitmap.cpp snake.cpp texture.cpp vec3d.cpp -std=c++11 -lglut -lGL -lGLU -lm
 
 ## Como executar:
 
-```./main```
+> ./main
 
 ## Observação:
 
